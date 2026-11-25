@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Unsent: The Micro-Confession Sprint — one two-part confession, max 260 chars.
+# Writes the entry text to /output/entry.txt; judge scores the confession alone.
 """Unsent: The Micro-Confession Sprint entry.
 
 Writes one two-part micro-confession to /output/entry.txt:
